@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "draft-artikel-guru-api",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "567f28e3-ccc6-420b-961b-e0795a62f080",
+			"database_name": "draft-artikel-db"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
